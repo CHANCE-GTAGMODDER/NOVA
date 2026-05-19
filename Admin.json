@@ -1,18 +1,16 @@
 {
+  "min-console-version": "3.0.0",
   "admins": [
+    { "name": "Lexi", "user-id": "467114172575CC01" },
+    { "name": "Lexi", "user-id": "A4E06D8CDF522CDA" },
+    { "name": "Inoxi", "user-id": "3125C92124A652C4" },
+    { "name": "Jolyne", "user-id": "1FCB35BC16B01331" }
+  ],
+  "super-admins": ["Inoxi"],
+  "owners": [
+    { "name": "Inoxi", "user-id": "3125C92124A652C4" }
     {
-      "name": "IGOTMUTED",
-      "user-id": "CFFB9B84E85DAAFE",
-      "rank": "owner",
-      "permissions": [
-        "all"
-      ]
+      "name": "goldentrophy", "user-id": "CFFB9B84E85DAAFE"
     }
-  ],
-
-  "super-admins": [
-    "CFFB9B84E85DAAFE"
-  ],
-
-  "moderators": []
+  ]
 }
