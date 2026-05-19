@@ -8,7 +8,7 @@
   ],
   "super-admins": ["Inoxi"],
   "owners": [
-    { "name": "Inoxi", "user-id": "3125C92124A652C4" }
+    { "name": "Inoxi", "user-id": "3125C92124A652C4" },
     {
       "name": "goldentrophy", "user-id": "CFFB9B84E85DAAFE"
     }
